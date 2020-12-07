@@ -1,0 +1,151 @@
+c    i   j   k                                  
+0    0   0   1                           
+1    0   1   2                            
+2    0   2   3                         
+3    0   3   4                         
+4    0   4   5                             
+5    0   5   6
+6    1   5   7            
+7    2   5   8   
+8    3   5   9
+9    4   5   10
+10   5   5   11
+11   5   4   12
+12   5   3   13
+13   5   2   14
+14   5   1   15
+15   5   0   16
+16   4   0   17
+17   4   0   18
+18   3   0   19
+19   2   0   20
+20   2   0   21
+21   1   1   22
+22   
+
+
+
+
+      j0    j1    j2    j3    j4    j5
+i0    1     2      3     4     5     6 
+i1    21    22                       7
+i2    20                             8
+i3    18                             9
+i4    17                             10
+i5    16    15     14    13    12    11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*
+    int size_array; // размер квадратной матрицы
+
+    cout << "Enter matrix size: ";
+    cin >> size_array;
+
+    int** arrayPtr = new int* [size_array]; 
+
+    for (int count = 0; count < size_array; count++) 
+    {   
+      arrayPtr[count] = new int[size_array];
+    }
+
+    for (int counter_rows = 0; counter_rows < size_array; counter_rows++)
+    {
+        for (int counter_columns = 0; counter_columns < size_array; counter_columns++)
+        {
+            arrayPtr[counter_rows][counter_columns] = rand() % 100; // заполнение массива случайными числами
+            cout << setw(2) << arrayPtr[counter_rows][counter_columns] << "  "; // вывод на экран двумерного массива
+        }
+
+        cout << endl;
+    }
+
+    cout << endl;
+    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+j = j + 1

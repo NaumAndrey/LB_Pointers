@@ -1,0 +1,3 @@
+﻿  pointers.cpp
+C:\Users\spider\Desktop\LB_Pointers\pointers\pointers\pointers.cpp(233,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pointers.vcxproj -> C:\Users\spider\Desktop\LB_Pointers\pointers\Debug\pointers.exe
